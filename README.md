@@ -3,6 +3,11 @@
 
 This project aims to perform real-time handwritten Kannada character recognition using computer vision and machine learning techniques. It allows users to draw Kannada characters in real-time using tools like Paint3D, and the system predicts the characters instantly.
 
+## Video Demonstration
+
+<div style="position: relative; padding-bottom: 55.6910569105691%; height: 0;">
+  <iframe src="https://www.loom.com/embed/1e0c65b0647d40d889db8afed556883b?sid=08dc90c9-a449-46d2-b989-e17d8896b5d9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Overview
 
